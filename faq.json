@@ -1,8 +1,8 @@
 [
-    {question: "你是谁？", answer: "我是资金内部答疑平台，由资金接入开发共同维护的一份指南，方便大家快速查找解决方式。可以通过<a href=\"\">这个链接</a>提交问题和解答"},
-    {question: "Question 2", answer: "Answer 2"},
-    {question: "Question 3", answer: "Answer 3"},
-    {question: "Q1 related question", answer: "Q1 related answer"},
-    {question: "Q2 related question", answer: "Q2 related answer"},
-    {question: "1st question", answer: "1st answer"}
+    {"question": "你是谁？", "answer": "我是资金内部答疑平台，由资金接入开发共同维护的一份指南，方便大家快速查找解决方式。可以通过<a href=\"\">这个链接</a>提交问题和解答"},
+    {"question": "Question 2", "answer": "Answer 2"},
+    {"question": "Question 3", "answer": "Answer 3"},
+    {"question": "Q1 related question", "answer": "Q1 related answer"},
+    {"question": "Q2 related question", "answer": "Q2 related answer"},
+    {"question": "1st question", "answer": "1st answer"}
 ]
